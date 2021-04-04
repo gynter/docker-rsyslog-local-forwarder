@@ -1,0 +1,8 @@
+#
+# Docker RSyslog local forwarder with RELP module support (https://github.com/gynter/docker-rsyslog-relp-local-forwarder-alpine)
+#
+# See https://github.com/gynter/rsyslog-docker-compose-example for deployment example using Docker Compose.
+#
+
+LICENSE
+README.markdown
